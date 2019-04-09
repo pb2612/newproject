@@ -1,4 +1,6 @@
 My first Git project
 second edit
-
+third line added
 fourth edit
+fifth line added
+sixth line added
